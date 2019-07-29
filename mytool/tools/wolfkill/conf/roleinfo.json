@@ -1,0 +1,232 @@
+{
+  "nameToChineses":
+  [
+    {"Sheriff": "警长"},
+
+    {"Villager": "村民"},
+    {"Prophet": "预言家"},
+    {"Witch": "女巫"},
+    {"Hunter": "猎人"},
+    {"Idiot": "白痴"},
+    {"Guard": "守卫"},
+    {"Bear": "熊"},
+    {"Stalker": "潜行者"},
+    {"Magician": "魔术师"},
+    {"Elder": "长老"},
+    {"RustySwordKnight": "锈剑骑士"},
+    {"BlackMarketBusinessman": "黑市商人"},
+    {"TombGuard": "守墓人"},
+
+    {"Wolf":"狼人"},
+    {"WhiteWolfKing": "白狼王"},
+    {"WolfBeauty": "狼美人"},
+    {"InvisibleWolf": "隐狼"},
+    {"Gargoyle": "石像鬼"},
+    {"Nightmare": "梦魇"},
+
+    {"Cupid": "丘比特"},
+    {"Thief": "盗贼"}
+  ],
+  "roleInfos":
+  [
+    {
+      "name": "Sheriff",
+      "chinaName": "警长",
+      "skill": "1.5票投票权",
+      "types": "other",
+      "openNumber": 0,
+      "orderNumber": 0,
+      "explain": "警长：又到了一年一度的总统竞选环节~~"
+    },
+
+    {
+      "name": "Villager",
+      "chinaName": "村民",
+      "skill": "无",
+      "types": "good_man",
+      "openNumber": 1,
+      "orderNumber": 1,
+      "explain": "村民：像我这样的老百姓，谁会在乎我~~"
+    },
+    {
+      "name": "Prophet",
+      "chinaName": "预言家",
+      "skill": "夜里查验一名玩家的身份",
+      "types": "good_god",
+      "openNumber": 2,
+      "orderNumber": 2,
+      "explain": "预言家：算八字算姻缘，算不准也收钱~~"
+    },
+    {
+      "name": "Witch",
+      "chinaName": "女巫",
+      "skill": "夜里救人和毒人",
+      "types": "good_god",
+      "openNumber": 3,
+      "orderNumber": 3,
+      "explain": "女巫：好人感冒多喝热水，狼人熬夜多喝可乐"
+    },
+    {
+      "name": "Hunter",
+      "chinaName": "猎人",
+      "skill": "死前开枪",
+      "types": "good_god",
+      "openNumber": 4,
+      "orderNumber": 4,
+      "explain": "猎人：老乡见老乡，背后打一枪~~"
+    },
+    {
+      "name": "Idiot",
+      "chinaName": "白痴",
+      "skill": "无法被投票出局",
+      "types": "good_god",
+      "openNumber": 5,
+      "orderNumber": 5,
+      "explain": "白痴：我的主治医生跟我说，我只是看起来傻~~"
+    },
+    {
+      "name": "Guard",
+      "chinaName": "守卫",
+      "skill": "夜里守护一名玩家不被狼刀",
+      "types": "good_god",
+      "openNumber": 6,
+      "orderNumber": 6,
+      "explain": "守卫：张开双手，变成翅膀守护你~~"
+    },
+    {
+      "name": "Bear",
+      "chinaName": "熊",
+      "skill": "夜里身边（左右）有狼则咆哮",
+      "types": "good_god",
+      "openNumber": 7,
+      "orderNumber": 7,
+      "explain": "熊：恶龙咆哮~~瞎jb叫~~"
+    },
+    {
+      "name": "Stalker",
+      "chinaName": "潜行者",
+      "skill": "白天投票标记，夜里睁眼杀人",
+      "types": "good_god",
+      "openNumber": 8,
+      "orderNumber": 8,
+      "explain": "潜行者：黑夜给我黑色的眼睛，我却用它来杀人~~"
+    },
+    {
+      "name": "Magician",
+      "chinaName": "魔术师",
+      "skill": "夜里交换身份号码",
+      "types": "good_god",
+      "openNumber": 9,
+      "orderNumber": 9,
+      "explain": "魔术师：接下来是见证奇迹的时刻~~"
+    },
+    {
+      "name": "Elder",
+      "chinaName": "长老",
+      "skill": "夜里抵御两次狼刀",
+      "types": "good_god",
+      "openNumber": 10,
+      "orderNumber": 10,
+      "explain": "长老：我走过的桥比你走过的路还多~~"
+    },
+    {
+      "name": "RustySwordKnight",
+      "chinaName": "锈剑骑士",
+      "skill": "下一个夜晚感染死一名狼人",
+      "types": "good_god",
+      "openNumber": 11,
+      "orderNumber": 11,
+      "explain": "锈剑骑士：无形之刃，最为致命~~"
+    },
+    {
+      "name": "BlackMarketBusinessman",
+      "chinaName": "黑市商人",
+      "skill": "授予一名玩家一个技能",
+      "types": "good_god",
+      "openNumber": 12,
+      "orderNumber": 12,
+      "explain": "黑市商人：全是中间商赚差价~~"
+    },
+    {
+      "name": "TombGuard",
+      "chinaName": "守墓人",
+      "skill": "夜里检验被投出局的人的身份",
+      "types": "good_god",
+      "openNumber": 13,
+      "orderNumber": 13,
+      "explain": "守墓人：挖尸、鞭尸、验尸，然后数据分析~~"
+    },
+    {
+      "name": "Wolf",
+      "chinaName": "狼人",
+      "skill": "夜里杀人",
+      "types": "bad",
+      "openNumber": 14,
+      "orderNumber": 14,
+      "explain": "狼人：我是色狼~~不是色盲~~月圆之夜~~呜呜呜呜~~"
+    },
+    {
+      "name": "WhiteWolfKing",
+      "chinaName": "白狼王",
+      "skill": "死前开枪杀人",
+      "types": "bad_god",
+      "openNumber": 15,
+      "orderNumber": 15,
+      "explain": "白狼王：托身白刃里，杀人红尘中~~"
+    },
+    {
+      "name": "WolfBeauty",
+      "chinaName": "狼美人",
+      "skill": "夜里魅惑一名玩家",
+      "types": "bad_god",
+      "openNumber": 16,
+      "orderNumber": 16,
+      "explain": "狼美人：该死，我这无处安放的魅力~~"
+    },
+    {
+      "name": "InvisibleWolf",
+      "chinaName": "隐狼",
+      "skill": "无法杀人，被验好人",
+      "types": "bad_god",
+      "openNumber": 17,
+      "orderNumber": 17,
+      "explain": "隐狼：不要怂（干），就是干（怂）~~"
+    },
+    {
+      "name": "Gargoyle",
+      "chinaName": "石像鬼",
+      "skill": "不进狼窝，夜里验人",
+      "types": "bad_god",
+      "openNumber": 18,
+      "orderNumber": 18,
+      "explain": "石像鬼：b良为娼~~b上梁山~~是狼给的诱惑~~我扭起了秧歌~~"
+    },
+    {
+      "name": "Nightmare",
+      "chinaName": "梦魇",
+      "skill": "夜晚恐惧玩家，神玩家丧失技能",
+      "types": "bad_god",
+      "openNumber": 19,
+      "orderNumber": 19,
+      "explain": "梦魇：大梦遗世~~"
+    },
+    {
+      "name": "Cupid",
+      "chinaName": "丘比特",
+      "skill": "连接情侣",
+      "types": "unkown",
+      "openNumber": 20,
+      "orderNumber": 20,
+      "explain": "丘比特：手感不错~~瞎jb射~~"
+    },
+    {
+      "name": "Thief",
+      "chinaName": "盗贼",
+      "skill": "两张牌二选一",
+      "types": "unkown",
+      "openNumber": 21,
+      "orderNumber": 21,
+      "explain": "盗贼：打工是不可能的~~这辈子不可能打工的~~"
+    }
+  ]
+}
